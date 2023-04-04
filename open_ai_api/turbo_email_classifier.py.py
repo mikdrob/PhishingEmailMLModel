@@ -32,7 +32,7 @@ def check_email(content):
 
 
 # Load the CSV file into a DataFrame
-df = pd.read_csv('dataset/emails_set.csv')
+df = pd.read_csv('../dataset/emails_set.csv')
 
 # Access the first row of the 'text' column and convert it to a string
 first_row_text = str(df.loc[0, 'text'])

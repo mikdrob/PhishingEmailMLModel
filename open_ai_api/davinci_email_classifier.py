@@ -39,9 +39,7 @@ def check_email_legacy(content):
 
 
 # Load the CSV file into a DataFrame
-df = pd.read_csv('dataset/emails_set.csv')
+df = pd.read_csv('../dataset/emails_set.csv')
 
 # Access the first row of the 'text' column and convert it to a string
 first_row_text = str(df.loc[2, 'text'])
-
-# print(check_email_by_level_legacy(first_row_text).value)
