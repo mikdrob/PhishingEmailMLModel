@@ -3,6 +3,9 @@ import openai
 
 import pandas as pd
 
+from EmailCheck import EmailCheckResponse
+from util import parse_response_boolean
+
 openai.api_key = config.API_KEY
 
 
@@ -14,7 +17,7 @@ def check_email(content):
 
     try:
         completions = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo1",
+            model="gpt-3.5-turbo",
             messages=message
         )
 
@@ -22,18 +25,10 @@ def check_email(content):
 
         print(response)
 
-        return parse_response(response)
+        return parse_response_boolean(response)
     except openai.error.OpenAIError as e:
         print(f"Error: {e}")
-        return {"status": "failed"}
-
-
-def parse_response(input_str):
-    try:
-        bool_val = bool(int(input_str))
-        return {"status": "success", "value": bool_val}
-    except ValueError:
-        return {"status": "failed"}
+        return EmailCheckResponse(status="failed")
 
 
 # Load the CSV file into a DataFrame
