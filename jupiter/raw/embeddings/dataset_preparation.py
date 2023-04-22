@@ -12,7 +12,7 @@ embedding_encoding = "cl100k_base"  # this the encoding for text-embedding-ada-0
 max_tokens = 8000  # the maximum for text-embedding-ada-002 is 8191
 
 # load & inspect dataset
-input_datapath = "../dataset/emails_set.csv"  # to save space, we provide a pre-filtered dataset
+input_datapath = "../dataset/input/emails_set.csv"  # to save space, we provide a pre-filtered dataset
 df = pd.read_csv(input_datapath, index_col=0)
 df = df[["text", "is_phishing"]]
 df = df.dropna()

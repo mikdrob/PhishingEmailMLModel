@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
 # Step 1: Load dataset
-df = pd.read_csv('dataset/emails_set.csv')
+df = pd.read_csv('dataset/emails_set_batch.csv')
 
 # Step 2: Split the dataset into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(

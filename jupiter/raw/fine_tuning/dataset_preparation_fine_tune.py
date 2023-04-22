@@ -2,7 +2,7 @@ from sklearn.datasets import fetch_20newsgroups
 import pandas as pd
 import openai
 #
-# input_datapath = "../dataset/emails_set.csv"  # to save space, we provide a pre-filtered dataset
+# input_datapath = "../dataset/emails_set_batch.csv"  # to save space, we provide a pre-filtered dataset
 # df = pd.read_csv(input_datapath, index_col=0)
 # df = df[["text", "is_phishing"]]
 # df = df.rename(columns={"text": "prompt", "is_phishing": "completion"})
