@@ -1,0 +1,197 @@
+text,is_phishing
+"From: joan.martinez@company.com
+To: alex.johnson@gmail.com
+Subject: Project status update
+Hi Alex,
+I wanted to provide a quick update on the project we're working on. We've made some great progress and everything is on track for the deadline next month. Let me know if you have any questions.
+Best regards,
+Joan",0
+"From: joshua.diaz@company.com
+To: emily.chen@yahoo.com
+Subject: Invitation to our company's charity event
+Dear Emily,
+I hope this email finds you well. I wanted to personally invite you to our company's charity event next week. It's for a great cause and I think you would enjoy it. Please let me know if you're interested in attending.
+Best regards,
+Joshua",0
+"From: maria.gonzalez@company.com
+To: robert.wilson@hotmail.com
+Subject: Meeting follow-up
+Hi Robert,
+I just wanted to follow up on the meeting we had last week. We discussed several important topics and I wanted to make sure we're on the same page. Please let me know if you have any questions or concerns.
+Best regards,
+Maria",0
+"From: david.hernandez@company.com
+To: eric.nguyen@gmail.com
+Subject: New product launch
+Hi Eric,
+I hope this email finds you well. I wanted to share some exciting news with you. Our company is launching a new product next month and I think you'll really like it. Let me know if you're interested in learning more.
+Best regards,
+David",0
+"From: daniel.garcia@company.com
+To: julie.wang@yahoo.com
+Subject: Company announcement
+Hi Julie,
+I wanted to share some exciting news with you. Our company has just announced a new partnership that I think will benefit everyone. Please let me know if you have any questions or concerns.
+Best regards,
+Daniel",0
+"From: john.doe@example.com
+To: jane.smith@example.com
+Subject: Reminder: Meeting tomorrow at 2pm
+Hi Jane,
+
+Just a quick reminder that we have a meeting scheduled for tomorrow at 2pm in Conference Room A. Please let me know if you are unable to attend.
+
+Best regards
+John",0
+"From: sarah.jones@example.com
+To: info@example.com
+Subject: Inquiry about product
+Hello,
+
+I am interested in learning more about your new product line. Can you please send me additional information?
+
+Thank you,
+Sarah Jones",0
+"From: support@example.com
+To: customer@example.com
+Subject: Issue with your account
+Dear Customer,
+
+We are writing to inform you that there has been an issue with your account. Please log in to your account to review and update your information.
+
+Thank you,
+Support Team",0
+"From: news@example.com
+To: subscribers@example.com
+Subject: Weekly Newsletter
+Dear Subscriber,
+
+We hope this email finds you well. Attached please find our latest newsletter for your reading pleasure.
+
+Best,
+News Team",0
+"From: bank@example.com
+To: customer@example.com
+Subject: Account Statement
+Dear Customer,
+
+Please find attached your account statement for the month of March.
+
+Thank you,
+Bank",0
+"From: jane.doe@example.com
+To: john.smith@example.com
+Subject: Follow up on our meeting
+Hi John,
+
+Thank you for meeting with me yesterday. I wanted to follow up on a few things we discussed. Please let me know if you have any questions.
+
+Best regards,
+Jane",0
+"From: hr@example.com
+To: employee@example
+From: john@example.com\nTo: mary@example.com\nSubject: Meeting tomorrow\n\nHi Mary \n\nJust a reminder that we have a meeting tomorrow at 10am in the conference room. See you then.\n\nBest regards \nJohn\n""",0
+"From: paypal@example.com\nTo: johndoe@example.com\nSubject: Account update required\n\nDear John,\n\nWe've noticed some unusual activity on your account and need to verify some information to keep your account secure. Please click the link below to update your account information.\n\nLink: http://fakeurl.com\n\nSincerely,\nThe PayPal Team\n",1
+"From: marketing@example.com\nTo: newsletter@example.com\nSubject: Monthly newsletter\n\nDear Newsletter Subscriber,\n\nWelcome to the latest edition of our monthly newsletter. Please find attached the latest news and updates from our company.\n\nThank you for your continued interest in our business.\n\nBest regards,\nThe Marketing Team\n",0
+"From: support@example.com\nTo: johndoe@example.com\nSubject: Support ticket update\n\nDear John,\n\nYour support ticket #12345 has been updated. Please log in to view the latest response.\n\nBest regards,\nThe Support Team\n",0
+"From: jane@example.com\nTo: john@example.com\nSubject: Dinner tonight\n\nHi John,\n\nI was wondering if you're free for dinner tonight? There's a new Italian place I've been wanting to try.\n\nLet me know,\nJane\n",0
+"From: support@paypal.com\nTo: user@example.com\nSubject: Action required: Confirm your account\n\nDear user,\n\nWe have noticed some unusual activity on your PayPal account. To protect your account, we have temporarily suspended your access. Please follow the link below to confirm your account and restore access.\n\nLink: https://paypal-confirmation.com/confirm-account\n\nBest regards,\nPayPal Support",1
+"From: johndoe@example.com\nTo: user@example.com\nSubject: Invitation to lunch\n\nDear user,\n\nI would like to invite you to have lunch with me at the restaurant across the street tomorrow at noon. It would be great to catch up with you.\n\nBest regards,\nJohn",0
+"From: bank@example.com\nTo: user@example.com\nSubject: Urgent: Security Alert\n\nDear user,\n\nWe have detected an unauthorized attempt to access your bank account. For your protection, we have temporarily disabled your account. Please click on the link below to verify your identity and reactivate your account.\n\nLink: https://bank-verification.com/verify-account\n\nBest regards,\nBank Security",1
+"From: user@example.com\nTo: friend@example.com\nSubject: Happy Birthday!\n\nDear friend,\n\nI just wanted to wish you a very happy birthday. I hope your day is filled with joy and laughter.\n\nBest wishes,\nUser",0
+"From: joan.martinez@company.com
+To: alex.johnson@gmail.com
+Subject: Important update to the project
+Dear Alex,
+We have encountered some unexpected challenges that require your immediate attention. Please respond urgently so that we can proceed with the project as planned.
+Sincerely,
+Joan",1
+"From: joshua.diaz@company.com
+To: emily.chen@yahoo.com
+Subject: Claim your free prize now!
+Dear Emily,
+You've been selected to receive a special prize from our company. All you have to do is click the link below to claim it. Don't miss out on this incredible opportunity!
+Best regards,
+Joshua",1
+"From: maria.gonzalez@company.com
+To: robert.wilson@hotmail.com
+Subject: Urgent: Meeting rescheduled
+Robert,
+There's been a change of plans and we need to reschedule our meeting for today. Please reply with your availability as soon as possible.
+Thanks,
+Maria",1
+"From: david.hernandez@company.com
+To: eric.nguyen@gmail.com
+Subject: Your account has been compromised
+Eric,
+We've detected some suspicious activity on your account and need you to verify your information immediately. Failure to do so may result in the suspension of your account.
+Sincerely,
+David",1
+"From: daniel.garcia@company.com
+To: julie.wang@yahoo.com
+Subject: Urgent: Account locked
+Julie,
+Your account has been locked due to suspicious activity. Please click the link below to unlock it",1
+"From: john.doe@gmail.com
+To: jane.smith@example.com
+Subject: Meeting tomorrow at 2pm
+Hey Jane,
+
+I need your help on something. Can you please send me your login credentials to the system ASAP? There's some work I need to finish before our meeting tomorrow at 2pm.
+
+Thanks,
+John",1
+"From: sarah.jones@hotmail.com
+To: info@example.com
+Subject: RE: Inquiry about product
+Hi there,
+
+I'd be happy to provide you with some information about our products. But first, can you please send me your credit card information for verification purposes?
+
+Best,
+Sarah",1
+"From: support@alert.com
+To: customer@example.com
+Subject: Urgent: Account Security Alert
+Dear Customer,
+
+We have detected suspicious activity on your account. Please click on the following link to update your information and secure your account: [malicious link]
+
+Sincerely,
+Support Team",1
+"From: news@marketing.com
+To: subscribers@example.com
+Subject: Exclusive Offer for Subscribers!
+Hey Subscriber,
+
+We have a special offer just for you! Click on the following link to claim your exclusive discount: [malicious link]
+
+Thanks,
+Marketing Team",1
+"From: bank@security.com
+To: customer@example.com
+Subject: Account Security Alert
+Dear Customer,
+
+We have detected unauthorized access to your account. Please click on the following link to update your information and secure your account: [malicious link]
+
+Sincerely,
+Bank Security Team",1
+"From: jane.doe@gmail.com
+To: john.smith@example.com
+Subject: Meeting Follow Up
+Hey John,
+
+Great meeting yesterday! I just wanted to confirm that you're still on board with the plan we discussed. Also, can you please send me your login credentials so we can move forward?
+
+Thanks,
+Jane",1
+"From: j0hn@example.com\nTo: mary@example.com\nSubject: IMPORTANT: Urgent meeting tomorrow!\n\nHey Mary,\n\nIt's critical that you attend an emergency meeting tomorrow at 10am in the conference room. Failure to attend may result in disciplinary action.\n\nRegards,\nJohn\n",1
+"From: pay-pal@example.com\nTo: johndoe@example.com\nSubject: ALERT: Your account is at risk!\n\nDear John,\n\nYour PayPal account is at risk of being compromised due to suspicious activity. Click the link below to confirm your identity and secure your account.\n\nLink: http://fakeurl.com\n\nBest regards,\nThe PayPal Team\n",1
+"From: newsletter-marketing@example.com\nTo: newsletter@example.com\nSubject: Exclusive content just for you!\n\nDear Newsletter Subscriber,\n\nYou have been selected to receive exclusive content and discounts not available to the general public. Click the link below to claim your offer now!\n\nLink: http://fakeurl.com\n\nBest regards,\nThe Marketing Team\n",1
+"From: support-center@example.com\nTo: johndoe@example.com\nSubject: URGENT: Support ticket not resolved!\n\nDear John,\n\nWe apologize for the delay in resolving your support ticket #12345. Click the link below to escalate your ticket and get a resolution as soon as possible.\n\nLink: http://fakeurl.com\n\nRegards,\nThe Support Center\n",1
+"From: j4ne@example.com\nTo: john@example.com\nSubject: Hey, let's party tonight!\n\nJohn,\n\nIt's been a while since we had a good time together. Let's go out and party tonight, my treat! Click the link below to RSVP.\n\nLink: http://fakeurl.com\n\nLater,\nJane\n",1
+"From: support@paypa1.com\nTo: user@example.com\nSubject: Confirm your PayPal account\n\nDear user,\n\nYour PayPal account has been temporarily suspended due to unusual activity. To restore access, please click on the link below and confirm your account information.\n\nLink: https://paypa1-confirmation.com/confirm-account\n\nThank you,\nPaypa1 Support",1
+"From: johndoe@example.com\nTo: user@example.com\nSubject: Hey, you free tomorrow?\n\nHey there,\n\nDo you want to grab lunch tomorrow at the new restaurant? I heard it's amazing. Let me know!\n\nThanks,\nJohn",1
+"From: bank-security@example.com\nTo: user@example.com\nSubject: Important: Verify your account\n\nDear valued customer,\n\nWe have noticed an unauthorized login attempt on your account. For your security, we have temporarily suspended your account. Please click on the link below to verify your identity and reactivate your account.\n\nLink: https://bank-verification2.com/verify-account\n\nSincerely,\nBank Security Team",1
+"From: user@example.com\nTo: friend@example.com\nSubject: Hey, did you get my gift?\n\nHey friend,\n\nI just wanted to make sure you received the gift I sent you for your birthday. Let me know if it arrived!\n\nThanks,\nUser",1
